@@ -1,0 +1,11 @@
+C:\Users\malih\source\repos\User profile\User profile\obj\Debug\User profile.csproj.AssemblyReference.cache
+C:\Users\malih\source\repos\User profile\User profile\obj\Debug\User profile.csproj.SuggestedBindingRedirects.cache
+C:\Users\malih\source\repos\User profile\User profile\obj\Debug\User_profile.Form1.resources
+C:\Users\malih\source\repos\User profile\User profile\obj\Debug\User_profile.Properties.Resources.resources
+C:\Users\malih\source\repos\User profile\User profile\obj\Debug\User profile.csproj.GenerateResource.cache
+C:\Users\malih\source\repos\User profile\User profile\obj\Debug\User profile.csproj.CoreCompileInputs.cache
+C:\Users\malih\source\repos\User profile\User profile\bin\Debug\User profile.exe.config
+C:\Users\malih\source\repos\User profile\User profile\bin\Debug\User profile.exe
+C:\Users\malih\source\repos\User profile\User profile\bin\Debug\User profile.pdb
+C:\Users\malih\source\repos\User profile\User profile\obj\Debug\User profile.exe
+C:\Users\malih\source\repos\User profile\User profile\obj\Debug\User profile.pdb
