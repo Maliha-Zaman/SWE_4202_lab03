@@ -1,0 +1,11 @@
+C:\Users\malih\source\repos\Grades app\Grades app\bin\Debug\Grades app.exe.config
+C:\Users\malih\source\repos\Grades app\Grades app\bin\Debug\Grades app.exe
+C:\Users\malih\source\repos\Grades app\Grades app\bin\Debug\Grades app.pdb
+C:\Users\malih\source\repos\Grades app\Grades app\obj\Debug\Grades app.csproj.AssemblyReference.cache
+C:\Users\malih\source\repos\Grades app\Grades app\obj\Debug\Grades app.csproj.SuggestedBindingRedirects.cache
+C:\Users\malih\source\repos\Grades app\Grades app\obj\Debug\Grades_app.Form1.resources
+C:\Users\malih\source\repos\Grades app\Grades app\obj\Debug\Grades_app.Properties.Resources.resources
+C:\Users\malih\source\repos\Grades app\Grades app\obj\Debug\Grades app.csproj.GenerateResource.cache
+C:\Users\malih\source\repos\Grades app\Grades app\obj\Debug\Grades app.csproj.CoreCompileInputs.cache
+C:\Users\malih\source\repos\Grades app\Grades app\obj\Debug\Grades app.exe
+C:\Users\malih\source\repos\Grades app\Grades app\obj\Debug\Grades app.pdb
