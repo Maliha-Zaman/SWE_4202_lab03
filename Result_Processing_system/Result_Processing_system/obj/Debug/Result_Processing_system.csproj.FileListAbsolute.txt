@@ -1,0 +1,11 @@
+C:\Users\malih\source\repos\Result_Processing_system\Result_Processing_system\bin\Debug\Result_Processing_system.exe.config
+C:\Users\malih\source\repos\Result_Processing_system\Result_Processing_system\bin\Debug\Result_Processing_system.exe
+C:\Users\malih\source\repos\Result_Processing_system\Result_Processing_system\bin\Debug\Result_Processing_system.pdb
+C:\Users\malih\source\repos\Result_Processing_system\Result_Processing_system\obj\Debug\Result_Processing_system.csproj.AssemblyReference.cache
+C:\Users\malih\source\repos\Result_Processing_system\Result_Processing_system\obj\Debug\Result_Processing_system.csproj.SuggestedBindingRedirects.cache
+C:\Users\malih\source\repos\Result_Processing_system\Result_Processing_system\obj\Debug\Result_Processing_system.Form1.resources
+C:\Users\malih\source\repos\Result_Processing_system\Result_Processing_system\obj\Debug\Result_Processing_system.Properties.Resources.resources
+C:\Users\malih\source\repos\Result_Processing_system\Result_Processing_system\obj\Debug\Result_Processing_system.csproj.GenerateResource.cache
+C:\Users\malih\source\repos\Result_Processing_system\Result_Processing_system\obj\Debug\Result_Processing_system.csproj.CoreCompileInputs.cache
+C:\Users\malih\source\repos\Result_Processing_system\Result_Processing_system\obj\Debug\Result_Processing_system.exe
+C:\Users\malih\source\repos\Result_Processing_system\Result_Processing_system\obj\Debug\Result_Processing_system.pdb
